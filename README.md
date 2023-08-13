@@ -16,13 +16,6 @@ This project demonstrates effective use of TestNG, highlighting test automation 
 2. Ensure you have the required dependencies installed: Java, TestNG.
 3. Explore the project structure and the test suite files.
 
-## Project Structure
-
-- `src/`: Contains the source code for test automation.
-- `test-suites/`: Includes TestNG XML files that define different test suites.
-- `test-data/`: Holds test data for data-driven testing.
-- `reports/`: Stores generated reports showcasing test results.
-
 ## Usage
 
 1. Navigate to the project directory.
